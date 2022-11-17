@@ -76,3 +76,5 @@ gem "elasticsearch-model", "~> 7.2"
 gem "karafka", "~> 2.0"
 
 gem "whenever", "~> 1.0"
+
+gem "rails-pg-extras", "~> 4.9"
